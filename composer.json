@@ -1,0 +1,12 @@
+
+
+{
+    "name": "venn/package33",
+    "description": "Get it now",
+    "autoload": {
+        "psr-4": {
+        "Core\\": "core/"
+    }
+}
+
+}
