@@ -1,5 +1,3 @@
-
-
 {
     "name": "venn/package33",
     "description": "Get it now",
@@ -7,6 +5,8 @@
         "psr-4": {
         "Core\\": "core/"
     }
-}
-
+},
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
 }
